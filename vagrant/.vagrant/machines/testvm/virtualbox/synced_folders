@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"owner":"root","group":"root","guestpath":"/var/www/html","hostpath":"C:/Users/om170/2244_2a/vagrant/test-folder","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/om170/2244_2a/vagrant","disabled":false,"__vagrantfile":true}}}
